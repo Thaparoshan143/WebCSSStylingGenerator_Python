@@ -12,12 +12,11 @@ This is designed to work with CSS, where some of the boiler plate for CSS are au
     <li>File Name selected will be opened on append mode so, every styling generated from here will be appended in bottom</li>
 
 <h3>Features Available till now/working with: </h3>
-    <li>
-        Pseudo Class Generator
-            <li>Takes the class name from user in format (given below)</li>
-            <li>pseudo -className-, where - in front and back means generate both before and after pseduo for given class</li>
-            <li>pseudo -className, generates only before and pseudo className-, generates only after ... </li>
-            <li>Generates the default class styling along with pseudo styling</li>
-    </li>
+
+<b>1. Pseudo Class Generator</b>
+    <li>Takes the class name from user in format (given below)</li>
+    <li>pseudo -className-, where - in front and back means generate both before and after pseduo for given class</li>
+    <li>pseudo -className, generates only before and pseudo className-, generates only after ... </li>
+    <li>Generates the default class styling along with pseudo styling</li>
 
 <h3>Other features will be added soon</h3>
